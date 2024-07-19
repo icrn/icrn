@@ -37,7 +37,7 @@ me.say_hi()
 
 <img align='center' src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="230" />
 
-## 👨‍💻 bolg
+## 👨‍💻 blog
 [个人小站](https://icrn.github.io)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=icrn&show_icons=true&theme=onedark)
