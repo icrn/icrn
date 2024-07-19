@@ -1,18 +1,13 @@
 ## Hi there 👋
 
+🔭  I’m currently working on something cool 😉
+🌱  I’m currently learning Java, Go, Redis, Mysql, Spark, Flink, Hdfs, ClickHouse
+👨‍💻  Read more about my projects at (icrn.github.io )[https://icrn.github.io ]
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=icrn&show_icons=true&theme=dark)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=icrn&show_icons=true&theme=radical)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=icrn&show_icons=true&theme=merko)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=icrn&show_icons=true&theme=gruvbox)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=icrn&show_icons=true&theme=tokyonight)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=icrn&show_icons=true&theme=onedark)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=icrn&show_icons=true&theme=cobalt)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=icrn&show_icons=true&theme=synthwave)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=icrn&show_icons=true&theme=highcontrast)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=icrn&show_icons=true&theme=dracula)
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ficrn&count_bg=%232C3B20&title_bg=%23C6B7B7&icon=iconify.svg&icon_color=%23E7E7E7&title=&edge_flat=false)](https://hits.seeyoufarm.com)
 
 
 <!--
