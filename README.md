@@ -29,6 +29,13 @@ me.say_hi()
 
 <img align='center' src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="230" />
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/icrn/icrn/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/icrn/icrn/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/icrn/icrn/output/github-contribution-grid-snake.svg" />
+</picture>
+
+
 <!--
 **icrn/icrn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
